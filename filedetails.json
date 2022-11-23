@@ -1,6 +1,9 @@
 {
   "ovpn_file":[
     {"id":0,"file":"
+setenv FORWARD_COMPATIBLE 1
+"ovpn_file":[
+    {"id":0,"file":"
 client
 dev tun
 proto udp
